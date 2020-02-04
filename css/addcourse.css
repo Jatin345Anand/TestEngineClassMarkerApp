@@ -1,0 +1,92 @@
+datalist { 
+    display: none;
+}
+label {
+  /* Other styling.. */
+  text-align: right;
+  clear: both;
+  float:left;
+  margin-right:15px;
+}
+.formcontent{
+    margin-left: 22%;	
+}
+#form {
+  /*background-image: url("../images/addcourseBG.jpg");*/
+  background-color: #FFF;*/
+  height: 600px;
+  width: 600px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 0px;
+  padding: 0px;
+  text-align:center;
+}
+label {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  color: #333;
+  height: 20px;
+  width: 200px;
+  margin-top: 10px;
+  margin-left: 10px;
+  text-align: left;
+  clear: both;
+  float:left;
+  margin-right:15px;
+}
+input {
+  height: auto;
+  width: 250px;
+  border: 1px solid #000;
+  margin-top: 10px;
+  float: left;
+  color: black;
+  border-radius: 5px;
+  padding: 5px;
+    background: #EBEBEB;
+}
+.button{
+  height: auto;
+  width: 250px;
+  background: skyblue !important;
+  border-color: cornsilk;
+  margin-top: 10px;
+  float: left;
+  margin-left: -40%;
+  color: black;
+  border-radius: 5px;
+  padding: 5px;
+}
+.button:HOVER{
+	opacity: 0.7;
+}
+.widthbutton{
+	margin-left: 16%;
+}
+
+ input:hover{
+    background: white;
+    transition: 0.5s;
+}
+button:hover{
+    background: white;
+    transition: 0.5s;
+}
+.textareadetails {
+    height: auto;
+    width: 250px;
+    border: 1px solid #000;
+    margin-top: 10px;
+    float: left;
+    color: black;
+    border-radius: 5px;
+    padding: 5px;
+    background: #EBEBEB;
+}
+.textareadetails:hover{
+    background: white;
+}
+	.form-signin{
+		margin-left: 20%;
+	}

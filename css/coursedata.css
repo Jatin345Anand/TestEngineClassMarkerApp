@@ -1,0 +1,31 @@
+.coursesdata{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5px;
+    padding: 5px 5px 3px 4px;
+    text-align: left;
+    -moz-box-shadow:    inset 0 0 10px #D3E0CC;
+   -webkit-box-shadow: inset 0 0 10px #D3E0CC;
+   box-shadow:         inset 0 0 10px #D3E0CC;
+   border-radius: 10px;
+}
+.coursestest{
+    margin-left: 5%;
+   margin-right: 5%;
+    text-align: center;
+}
+.coursestest a{
+    margin-right: 5%;
+    color: black;
+    background-color: lightsteelblue;
+     -moz-box-shadow:    inset 0px 5px 20px #D3E0CC;
+   -webkit-box-shadow: inset 0px 5px 20px #D3E0CC;
+   box-shadow:         inset 0px 5px 20px #D3E0CC;
+    padding: 5px;
+    border-radius: 5px;
+    height: auto;
+    font-family: monospace;
+}
+a:hover{
+   text-decoration: none; 
+}

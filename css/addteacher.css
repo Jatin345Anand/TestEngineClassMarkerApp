@@ -1,0 +1,78 @@
+datalist { 
+    display: none;
+}
+label {
+  /* Other styling.. */
+  text-align: right;
+  clear: both;
+  float:left;
+  margin-right:15px;
+}
+
+.form-heigth{
+  background-color: #FFF;
+  height: 600px;
+  width: 600px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 0px;
+  padding: 0px;
+  /*text-align:center;*/
+  
+}
+label {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  color: #333;
+  height: 20px;
+  width: 200px;
+  margin-top: 10px;
+  text-align: left;
+  clear: both;
+  float:left;
+  /*margin-right:15px;*/
+}
+input {
+  height: auto;
+  width: 250px;
+  border: 1px solid #000;
+  margin-top: 10px;
+  /*float: left;*/
+  color: black;
+  border-radius: 5px;
+  padding: 5px;
+  background: #EBEBEB;
+}
+.submitbtn{
+  margin-left: 25%;
+  height: auto;
+  width: 250px;
+  border: 1px solid #000;
+  margin-top: 10px;
+  float: left;
+  color: black;
+  border-radius: 5px;
+  padding: 5px;
+  background: #EBEBEB;
+}
+input:hover{
+    background: white;
+}
+button:hover{
+    background: white;
+    
+}
+input[type=radio] {
+    display: inline-flex;
+    width: auto;
+}
+.radioset{
+  width: 250px;
+  margin-top: 10px;
+  float: left;
+  color: black;
+}
+.formcolor{
+    padding-left: 25px;
+}
+

@@ -1,0 +1,40 @@
+.main{
+    width: 100%;
+}
+.courses{
+    margin: 0px 0px 20px 0px;
+}
+.course1
+{
+    border: 1px solid;
+    display: flex;
+}
+.course2
+{
+    border: 1px solid;
+    display: flex;
+}
+.course1 CourseImage{
+    float: left;
+    border: 1px solid;
+}
+.course2 CourseImage{
+    float: left;
+    border: 1px solid;
+}
+.courseContant
+{
+    float: left;
+    background: white;
+    margin-top: 5%;    
+}
+@media (min-width:768px){
+    img{
+    padding-top: auto;
+}}
+*input{
+    padding: 2px;
+}
+.courseContant li{
+ list-style: none;
+}

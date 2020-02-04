@@ -1,0 +1,16 @@
+.search input{
+    margin-top: 0px;
+    padding: 5px;
+    border-radius: 5px;
+    color: darkgray;
+}
+.form-control1{
+    height: auto;
+        float: right;
+    margin: 10px;   
+}
+.search button{
+    background-color: #DCDCDC;
+    border-radius: 5px;
+    padding: .5rem 1rem;
+}

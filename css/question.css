@@ -1,0 +1,73 @@
+.group:after {
+    content: "";
+    display: table;
+    clear: both;
+    margin-bottom: 10px;
+    }
+.navigation-menu ul li{
+text-align: center;    
+    display: block;
+    margin: 0px 10px;
+}
+.navigation-menu{
+    float: right;
+}
+.studentdetails{ 
+    width: auto;
+    float: left;
+}
+.studentdetails ul li{
+    display: block;
+    margin-bottom: 2px;
+}
+.studentdetails img{
+    width: 10%;
+    text-align: center;
+}
+.container header{    
+    background-color: darkgrey;
+    margin-top :0px;
+}
+.main{
+    width: auto;
+    float: left;
+    width: 75%;
+}
+.sidebar
+{   
+    background-color: aqua;
+    float: right;
+    width: 24%;
+}
+.question-contant{
+    background-color: bisque;
+    margin-bottom: 10px;
+    margin-right: 5px;
+    padding: 5px;
+}
+header{
+    margin-bottom: 10px; 
+}
+h1{
+    margin: 0px;
+}
+.question-contant input{
+    width: auto;
+}
+.sidebar input{
+    width: auto;
+}
+.footeroption{
+    content: "";
+    clear: both;
+    display: block;
+    margin-left: 30%;
+}
+.footeroption button{
+    border-radius: 2px;
+    margin-left: 10px;
+    box-sizing: 24px; 
+}
+.leftcontent{
+	margin-left: 20%;
+}

@@ -1,0 +1,87 @@
+#banner img {
+    margin-top: 100px;
+    width: 100%;
+    position: fixed;
+    z-index: -1;
+    /*opacity: 0.6;*/
+}
+}#portfolio{
+    margin-bottom: 0px;
+    background-color: slateblue;
+    font-family: cursive;
+}
+.form-control
+{
+    max-width: 450px;
+    margin: 5px auto;
+    background-color: #fff;
+    border-radius: 0.3em;
+}
+.checkbox
+{
+   max-width: 450px;
+   margin: 5px auto; 
+}
+.btn-primary
+{
+    max-width: 450px;
+    margin: 5px auto;
+}
+.text-center h2{
+    font-family: cursive;
+    clear: both;
+    display: inherit;
+    content: "hello";
+}
+
+@media (min-width:768px)
+{
+.navbar-right{
+float:right!important;
+margin-right:100px
+}}
+.navbar-brand
+{
+    margin-left: 100px;
+}
+.form-image{
+    margin: 0px;
+    background-color: white;
+    padding: 0px;
+    width: 300px;
+    float: right;
+}
+input[type=file] {
+    padding: 0px;
+    display: inline-flex;
+    width: auto;
+}
+input[type=radio] {
+    padding: 0px;
+    display: inline-flex;
+    width: auto;
+    font-family: fantasy;
+    font-size: 24px;
+}
+.radiobutton input:first-child{
+    display: inline;
+    padding-left: 10px;
+}
+.radiobutton input:last-child{
+    display: inline;
+    margin-left: 150px;
+    margin-right: 0px;
+}
+.radiobutton{
+font-family: serif;
+    font-weight: 600;
+    font-size: 20PX;
+    margin-right: 360px;
+    margin-left: 360px;
+    width: auto;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 50px;
+    background-color: white;
+    border-radius: 5px;
+}

@@ -1,0 +1,121 @@
+label {
+  text-align: right;
+  clear: both;
+ /* float:left;*/
+  margin-right:15px;
+}
+#form {
+  /*background-image: url("../images/addcourseBG.jpg");*/
+  background-color: #FFF;  
+  width: 600px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 0px;
+  padding: 0px;
+  text-align:center;
+}
+label {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  color: #333;
+  height: 20px;
+  width: 200px;
+  margin-top: 10px;
+  margin-left: 10px;
+  text-align: center;
+  clear: both;
+  /*float:left;*/
+  margin-right:15px;
+}
+input {
+  height: auto;
+  width: auto;
+  border: 1px solid #000;
+  margin-top: 10px;
+  /*float: left;*/
+  color: black;
+  border-radius: 5px;
+  padding: 5px;
+  background: #EBEBEB;
+}
+button{
+  height: auto;
+  width: 100px;
+  border: 1px solid #000;
+  margin-top: 10px;
+  color: black;
+  border-radius: 5px;
+  padding: 5px;
+  background: #EBEBEB;
+}
+.button{
+    height: auto;
+    width: 100px;
+    border: 1px solid #000;
+    margin-top: 10px;
+    color: black;
+    border-radius: 5px;
+    padding: 5px;
+    background: #EBEBEB;
+}
+button:last-child{
+    margin-left: 300px;
+}
+button:first-child{
+    margin-left: 300px;
+}
+input:hover{
+    background: white;
+}
+button:hover{
+    background: white;
+}
+.textareadetails {
+    height: auto;
+    width: 250px;
+    border: 1px solid #000;
+    margin-top: 10px;
+    color: black;
+    border-radius: 5px;
+    padding: 5px;
+    background: #EBEBEB;
+}
+.textareadetails:hover{
+    background: white;
+}
+.tablestyle{
+    display: inline-flex;
+    padding:5px;
+}
+.sidestyle{
+    /*position: absolute;
+    left: 20%;*/
+    width: 100%;
+    text-align: center;
+    margin-top: -50px important;
+}
+.group:before
+{
+    clear: both;
+    content: "";
+    display: block;
+}
+.padstyle{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+select{
+  /*padding-bottom: 5px;*/
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  height: auto;
+  width: auto;
+  border: 1px solid #000;
+  margin-top: 10px;
+  color: black;
+  border-radius: 5px;
+  /*padding: 5px;*/
+  background: #EBEBEB;
+  width: 180px;    
+}
